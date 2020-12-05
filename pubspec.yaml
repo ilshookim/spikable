@@ -24,6 +24,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  flutter_localizations:
+    sdk: flutter
+    
   # A package for manipulating stack traces and printing them readably.
   stack_trace: ^1.9.5
 
